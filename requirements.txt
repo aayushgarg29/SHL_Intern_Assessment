@@ -1,0 +1,17 @@
+# Install a CUDA-compatible PyTorch build for your environment first.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+soundfile
+pyarrow
+librosa
+faster-whisper==1.1.1
+transformers
+accelerate
+torch
+torchaudio
+lightgbm

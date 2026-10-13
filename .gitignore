@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+# Kaggle outputs / private competition data
+cache/
+**/cache/
+data/
+Dataset_Final/
+train/
+test/
+submission.csv
+*.parquet
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.wav
+*.mp3
+*.flac
+*.mp4
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
